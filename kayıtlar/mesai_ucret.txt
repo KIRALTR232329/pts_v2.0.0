@@ -1,0 +1,14 @@
+isim,mesai_ücreti
+Mehmet Akif Günhan,60.0
+Akif Dalmış,0.0
+Abdullah Yasakan,0.0
+Yusuf Hacyusuf,0.0
+Abdullah Harun Günhan,0.0
+Fahrettin Avcı,0.0
+Cuma Ali Sağ,0.0
+Canan Doğan,0.0
+Ercan Kişi,1.0
+Cumhur Mustafa Argıt,0.0
+Kadir Yaşakan,0.0
+Gülay Hanım,0.0
+Abdulkadir Saboni,0.0
